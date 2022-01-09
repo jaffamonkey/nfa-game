@@ -1,6 +1,6 @@
 require('babel-register')({
     plugins: [
-        'transform-es2015-modules-commonjs',
+//         'transform-es2015-modules-commonjs',
         'syntax-object-rest-spread',
         'transform-object-rest-spread',
         'syntax-export-extensions',
