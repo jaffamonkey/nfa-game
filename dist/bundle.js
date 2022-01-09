@@ -4215,7 +4215,7 @@ function Credits() {
             null,
             __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(
                 __WEBPACK_IMPORTED_MODULE_2__externalLink_externalLink__["a" /* default */],
-                { href: 'https://github.com/alvov/the-monsters-vault-game' },
+                { href: 'https://github.com/jaffamonkey/nfa-game' },
                 'Github Repo'
             )
         )
