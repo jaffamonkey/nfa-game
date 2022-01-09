@@ -27,7 +27,7 @@ guess its position and direction by the sound
 it makes.
 
 ## Play the game
-_(you need a desktop browser, Chrome would be the best choice
+_(you need a desktop browser, Chrome or Brave would be the best choices
 at the moment of writing this)_
 
 ## Controls
