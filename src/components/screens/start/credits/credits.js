@@ -36,5 +36,28 @@ export default function Credits() {
                 Github Repo
             </ExternalLink>
         </dt>
+
+        <dt>How to Play</dt>
+        <dd className={styles.creditsDescription}>
+            <strong>Controls (Keyboard)</strong><br />
+            `W` — move forward<br />
+            `S` — move backward<br />
+            `A` — move left<br />
+            `D` — move right<br />
+            `Mouse/Touchpad` — look around<br />
+            `SHIFT` — run<br />
+            `E` — interact with stuff<br />
+            `Q` — quit to main menu<br />
+
+            <strong>Gamepad (Xbox 360/One, wired)</strong>
+            <br />
+            `Left stick` — move around<br />
+            `Right stick` — look around<br />
+            `Right trigger` — run<br />
+            `X` — interact with stuff<br />
+            `Back` — quit to main menu<br />
+            `A` — select item in menu<br />
+            `B` — go up one level in menu<br />
+        </dd>
     </dl>;
 }
