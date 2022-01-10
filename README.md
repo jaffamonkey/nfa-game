@@ -3,7 +3,6 @@
 ## Run
 ```
 npm install
-./node_modules/.bin/http-server -a 127.0.0.1
 ```
 *In browser, open http://127.0.0.1:8080*
 
