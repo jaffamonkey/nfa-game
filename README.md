@@ -1,4 +1,4 @@
-# The monster's vault game
+# No Forwarding Address game
 
 ## Run
 ```
