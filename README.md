@@ -1,4 +1,4 @@
-# No Forwarding Address game
+# No Forwarding Address &copy; game
 
 ## Run
 ```
