@@ -5,7 +5,7 @@
 }
 :global body {
     min-width: 640px;
-    font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;
+    font-family: Trebuchet MS, Lucida Sans Typewriter, Lucida Typewriter, monospace;
 }
 :global .app {
     width: 100%;
