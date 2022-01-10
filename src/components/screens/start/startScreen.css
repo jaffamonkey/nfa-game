@@ -20,7 +20,7 @@
     font-family: inherit;
     padding: 12px 10px;
     font-size: 25px;
-    font-style: italic;
+    font-style: normal;
     cursor: pointer;
     outline: none;
     text-align: left;
@@ -57,7 +57,7 @@
     font-family: inherit;
     padding: 5px 10px;
     font-size: 22px;
-    font-style: italic;
+    font-style: normal;
     cursor: pointer;
     outline: none;
 }

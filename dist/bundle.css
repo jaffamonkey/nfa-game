@@ -50,7 +50,7 @@ body {
     font-family: inherit;
     padding: 12px 10px;
     font-size: 25px;
-    font-style: italic;
+    font-style: normal;
     cursor: pointer;
     outline: none;
     text-align: left;
@@ -87,7 +87,7 @@ body {
     font-family: inherit;
     padding: 5px 10px;
     font-size: 22px;
-    font-style: italic;
+    font-style: normal;
     cursor: pointer;
     outline: none;
 }
@@ -172,7 +172,7 @@ body {
     background: currentColor;
 }
 .settings-warning-a7ZHY {
-    font-style: italic;
+    font-style: normal;
     color: #ffb8b3;
 }
 .settings-output-4rxkN {
