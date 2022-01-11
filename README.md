@@ -1,14 +1,14 @@
 ### Part of Proof of Concept work for game based on horror movie
 
-# No Forwarding Address &copy; game
+## No Forwarding Address &copy; game
 
-## Run
+### Run
 ```
 npm install
 ```
 *In browser, open http://127.0.0.1:8080*
 
-## Story
+### Story
 You find yourself locked in some sort of a
  creepy dungeon in the pitch darkness. You don't
  remember how you got here (because I'm too
@@ -19,7 +19,7 @@ You find yourself locked in some sort of a
  
  And by the way, what's inside those boxes?..
  
-## How to play
+### How to play
 Push down the levers to open doors.
 You can guess where the opened door is by the
 sound it makes (use your headphones).  
@@ -27,12 +27,12 @@ Don't get caught by the monster! You can also
 guess its position and direction by the sound
 it makes.
 
-## Play the game
+### Play the game
 _(you need a desktop browser, Chrome or Brave would be the best choices
 at the moment of writing this)_
 
-## Controls
-### Keyboard
+### Controls
+#### Keyboard
 `W` — move forward  
 `S` — move backward  
 `A` — move left  
@@ -42,7 +42,7 @@ at the moment of writing this)_
 `E` — interact with stuff  
 `Q` — quit to main menu  
 
-### Gamepad (Xbox 360/One, wired)
+#### Gamepad (Xbox 360/One, wired)
 `Left stick` — move around  
 `Right stick` — look around  
 `Right trigger` — run  
@@ -53,7 +53,7 @@ at the moment of writing this)_
 
 ![gamepad gameplay](./assets/screencapture-001.gif)
 
-## Features
+### Features
 - [x] No canvases
 - [x] 3d positioned audio (_use your headphones_)
 - [x] Gamepad support
@@ -61,7 +61,7 @@ at the moment of writing this)_
 - [x] Level generator:  
 ![level generator](./assets/screencapture-002-level.gif)
 
-## Credits
+### Credits
 * **Inspired by** — the [famous CSS 3d scene](http://keithclark.co.uk/labs/css-fps/)
 by [@keithclarkcouk](https://twitter.com/keithclarkcouk)
 * **Textures** — https://freestocktextures.com/
