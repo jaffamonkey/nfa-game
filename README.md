@@ -9,6 +9,8 @@ npm run start
 ```
 *In browser, open http://127.0.0.1:8080*
 
+Demo: https://tender-pike-d7d69a.netlify.app/
+
 ### Story
 You find yourself locked in some sort of a
  creepy dungeon in the pitch darkness. You don't
