@@ -110,8 +110,10 @@ class Enemy extends React.PureComponent {
         ].join(' ');
 
         return <div className={className} style={this.styleRules}>
-            <div className={'obj ' + styles.direction} style={this.rotationRules}>
-                <div className={styles.noise} />
+            <div className={'obj ' + styles.direction} style={this.rotationRules}>            
+            <div className={styles.face}>
+                </div>
+                {/* <div className={styles.noise} />
                 <div className={styles.noise} />
                 <div className={styles.noise} />
                 <div className={styles.noise} />
@@ -121,7 +123,7 @@ class Enemy extends React.PureComponent {
                     <i className={styles.eye} />
                     <i className={styles.eye} />
                     <i className={styles.eye} />
-                </div>
+                </div> */}
             </div>
         </div>;
     }
