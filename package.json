@@ -6,7 +6,7 @@
   "devDependencies": {
     "babel-register": "latest",
     "faucet": "latest",
-    "http-server": "latest",
+    "http-server": "^14.1.0",
     "tape": "latest"
   },
   "dependencies": {
@@ -21,8 +21,7 @@
     "redux": "latest",
     "redux-batched-actions": "latest",
     "style-loader": "latest",
-    "webpack": "^5.0.0",
-    "http-server": "latest"
+    "webpack": "^5.66.0"
   },
   "scripts": {
     "start": "http-server -a 127.0.0.1",
