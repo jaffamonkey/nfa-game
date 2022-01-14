@@ -9,6 +9,11 @@ npm run start
 ```
 *In browser, open http://127.0.0.1:8080*
 
+When adding new assets or with any changes in the `src` folder, ensure to run:
+```
+node tools/buildAssetsList.js
+```
+
 Demo: https://tender-pike-d7d69a.netlify.app/
 
 ### Story
