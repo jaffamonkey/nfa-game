@@ -3359,7 +3359,7 @@ class Enemy extends __WEBPACK_IMPORTED_MODULE_1_react___default.a.PureComponent 
                 __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement('div', { className: __WEBPACK_IMPORTED_MODULE_0__enemy_css___default.a.noise }),
                 __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(
                     'div',
-                    { className: __WEBPACK_IMPORTED_MODULE_0__enemy_css___default.a.eyes },
+                    { className: __WEBPACK_IMPORTED_MODULE_0__enemy_css___default.a.face },
                     __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement('i', { className: __WEBPACK_IMPORTED_MODULE_0__enemy_css___default.a.eye }),
                     __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement('i', { className: __WEBPACK_IMPORTED_MODULE_0__enemy_css___default.a.eye }),
                     __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement('i', { className: __WEBPACK_IMPORTED_MODULE_0__enemy_css___default.a.eye }),
@@ -6825,7 +6825,7 @@ module.exports = {"root":"door-root-eMRzu","bar":"door-bar-eZp6B","quality-0":"d
 /***/ (function(module, exports) {
 
 // removed by extract-text-webpack-plugin
-module.exports = {"direction":"enemy-direction-1I8dN","animationWalkingY":"enemy-animationWalkingY-3zjx6","animationWalkingX":"enemy-animationWalkingX-2RaGh","noise":"enemy-noise-13-ze","white-noise":"enemy-white-noise-3-kZ8","eyes":"enemy-eyes-FCLJ1","eye":"enemy-eye-3_1bw","blink":"enemy-blink-1OJ0w","state-attack":"enemy-state-attack-2rWST","state-rest":"enemy-state-rest-5SOpw","quality-0":"enemy-quality-0-3fbYD"};
+module.exports = {"direction":"enemy-direction-1I8dN","animationWalkingY":"enemy-animationWalkingY-3zjx6","animationWalkingX":"enemy-animationWalkingX-2RaGh","noise":"enemy-noise-13-ze","white-noise":"enemy-white-noise-3-kZ8","face":"enemy-face-FCLJ1","eye":"enemy-eye-3_1bw","blink":"enemy-blink-1OJ0w","state-attack":"enemy-state-attack-2rWST","state-rest":"enemy-state-rest-5SOpw","quality-0":"enemy-quality-0-3fbYD"};
 
 /***/ }),
 /* 164 */
