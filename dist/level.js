@@ -81,7 +81,7 @@ const FPS = 60;
 const BROAD_CELL_SIZE = 250;
 /* harmony export (immutable) */ __webpack_exports__["m"] = BROAD_CELL_SIZE;
 
-const SPOTLIGHT_RADIUS = 1.5 * BROAD_CELL_SIZE;
+const SPOTLIGHT_RADIUS = 2.0 * BROAD_CELL_SIZE;
 /* unused harmony export SPOTLIGHT_RADIUS */
 
 
