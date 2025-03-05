@@ -5,7 +5,7 @@
   "author": "alvov",
   "devDependencies": {
     "babel-register": "latest",
-    "faucet": "latest",
+    "faucet": "^0.0.4",
     "http-server": "^14.1.0",
     "tape": "latest"
   },
@@ -13,7 +13,7 @@
     "@babel/core": "^7.0.0",
     "babel-loader": "latest",
     "css-loader": "latest",
-    "extract-text-webpack-plugin": "latest",
+    "extract-text-webpack-plugin": "^2.1.0",
     "file-loader": "latest",
     "react": "latest",
     "react-dom": "latest",
